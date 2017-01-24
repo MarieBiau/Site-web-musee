@@ -1,0 +1,3 @@
+function egg(){
+	alert("Bouh!");
+}

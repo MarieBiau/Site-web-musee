@@ -1,0 +1,36 @@
+h1 {
+	font-size:1.5em;
+	font-family:Barkerville,Serif;
+	text-align:center;
+	margin: 1em auto 3em auto;
+}
+
+h2 {
+	float:right;
+	font-size:1.2em;
+	font-family:Cursive,Serif;
+	font-weight:normal;
+	text-align:center;
+	width:75%;
+	margin-top:3em;
+}
+
+div p {
+	text-indent:2em;
+}
+
+p {
+	font-family:Cursive,Serif;
+	text-align: justify;
+	clear:both;
+}
+
+#photo {
+	float:left;
+	margin-bottom:3em;
+}
+
+a {
+	text-decoration:none;
+	color:#00A2CC;
+}
